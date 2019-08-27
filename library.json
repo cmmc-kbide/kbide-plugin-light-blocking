@@ -1,6 +1,6 @@
 {
   "name" : "kbide-plugin-light-blocking",
-  "title": "light-blocking",
+  "title": "KY-010 PHOTO INTERRUPTER MODULE",
   "keywords": "light-blocking, esp32, esp8266, arduino",
   "description": "light-blocking plugin for KB-IDE",
   "category":"",
